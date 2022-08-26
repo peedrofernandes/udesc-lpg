@@ -1,0 +1,6 @@
+[submodule "tc3"]
+	path = tc3
+	url = git@github.com:peedrofernandes/udesc-lpg-tc3.git
+[submodule "tf"]
+	path = tf
+	url = git@github.com:peedrofernandes/udesc-lpg-tf.git
